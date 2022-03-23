@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "Chrome Notes",
+  "description": "Extension to save notes on Chrome",
+  "author": "Thiago Gomes Macedo",
+  "permissions": ["storage", "activeTab", "declarativeContent"],
+  "browser_action": {
+    "default_title": "Chrome Notes",
+    "default_popup": "public/index.html",
+    "default_icon": "public/icon.png"
+  }
+}
