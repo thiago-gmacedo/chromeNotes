@@ -4,12 +4,11 @@
 }
 body {
   background-color: antiquewhite;
-  padding: 1%;
 }
 .content {
   padding: 2%;
   text-align: center;
-  background-color: antiquewhite;
+  /* background-color: rgb(221, 185, 138); */
   width: 330px;
   height: auto;
   display: flex;
@@ -60,4 +59,25 @@ body {
 }
 .edit-button {
   background: rgb(204, 204, 115);
+}
+
+a:link, a:visited,  a:hover, a:active
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+footer {
+  margin-top: 5px;
+  background-color: #a09a9a;
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
 }
