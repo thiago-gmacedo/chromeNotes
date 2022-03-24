@@ -13,7 +13,7 @@ Existem muitas melhorias possíveis e refatoracões mas como assim já resolve o
 ## Instalacão:
 Para instalar você precisará clonar esse repositório no seu computador através do link:
 ```
-git clone git@github.com:thiago-gmacedo/chromeNotes.git
+git clone https://github.com/thiago-gmacedo/chromeNotes.git
 ```
 
 ### Após fazer o clone, vá no seu navegador e entre na aba de extenssões.
